@@ -18,7 +18,7 @@ The program generates and prints the following arithmetic sequence:
 - [5, 8, 11, 14, 17, 20, 23, 26]
 
 <p align="center">
-    <img src ="https://raw.githubusercontent.com/Abel-Rono/Scientific_Computing/main/Assets/Arithmetic_sequence_Gen.png"/>
+    <img src ="https://raw.githubusercontent.com/Abel-Rono/Scientific_Computing/main/Assets/Arithmetic_sequence_Gen1.png"/>
 </p>
 
 ## Technologies Used
