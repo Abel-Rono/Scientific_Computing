@@ -24,7 +24,7 @@ The program generates a **line graph** that visually represents temperature fluc
 - A descriptive and bold title
 
 <p align="center">
-    <img src ="./temperature_graph.png"/>
+    <img src ="Assets/temperature_graph.png"/>
 </p>
 
 ---
