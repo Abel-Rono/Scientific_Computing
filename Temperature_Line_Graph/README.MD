@@ -23,6 +23,10 @@ The program generates a **line graph** that visually represents temperature fluc
 - Clear labels for both axes
 - A descriptive and bold title
 
+<p align="center">
+    <img src ="./Assets/Temperature_Line_Graph.png"/>
+</p>
+
 ---
 
 ## 🛠️ Technologies Used
@@ -40,4 +44,3 @@ The program generates a **line graph** that visually represents temperature fluc
    ```bash
    pip install matplotlib
 
-## Output
